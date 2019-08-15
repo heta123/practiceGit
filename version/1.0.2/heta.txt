@@ -1,2 +1,3 @@
-hey,Hello this is Heta.
+Hello this is Heta.
 And she wants learn somthing new in git.
+1 0 1 version
